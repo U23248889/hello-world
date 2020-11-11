@@ -1,4 +1,4 @@
 # hello-world
 test didenko
 Hello
-It is sest GitHub by Natalia Didenko
+It is test GitHub by Natalia Didenko
